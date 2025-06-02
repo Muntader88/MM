@@ -1,0 +1,17 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    text-align: center;
+}
+h4 {
+    text-align: right;
+}
+
+button {
+    align-content: center;
+    height: 200px;
+    width: 200px;
+    background-color: deeppink;
+}
